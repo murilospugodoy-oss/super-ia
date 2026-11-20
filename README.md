@@ -110,7 +110,7 @@ Neste lote, identificamos a estrutura existente, definimos a hierarquia da pági
 
 ## Coordenação de Execução
 
-- Este é o lote 3 de 5.
+- Este é o lote 5 de 5.
 - Executamos SOMENTE o objetivo deste lote.
 - Preservamos integralmente o que já foi implementado nos lotes anteriores.
 - Não repetimos trabalho já concluído e não antecipamos os lotes seguintes.
