@@ -32,6 +32,15 @@ ZEUS AI LITE é uma plataforma de desenvolvimento com inteligência artificial l
 
 Neste lote, identificamos a estrutura existente, definimos a hierarquia da página, os tokens visuais essenciais e a base responsiva. Preservamos o projeto e não implementamos todas as seções ainda.
 
+## Coordenação de Execução
+
+- Este é o lote 5 de 5.
+- Executamos SOMENTE o objetivo deste lote.
+- Preservamos integralmente o que já foi implementado nos lotes anteriores.
+- Não repetimos trabalho já concluído e não antecipamos os lotes seguintes.
+- Priorizamos no máximo 4 arquivos modificados e no máximo 6 edições cirúrgicas neste lote.
+- Não instalamos dependências nem alteramos backend, banco, autenticação ou integrações, salvo se este lote disser explicitamente que isso faz parte do pedido.
+
 ## Hero
 
 ZEUS AI LITE é a solução definitiva para desenvolvedores que buscam potência e eficiência sem comprometer a simplicidade. Com nossa plataforma, você pode criar sites, aplicativos, programas e sistemas completos usando modelos de IA locais GGUF e provedores online opcionais, tudo em um ambiente otimizado para computadores modestos.
